@@ -18,7 +18,7 @@
 - Perl: <https://perldoc.perl.org/perlstyle.html>(英文)
 - PHP:
 	* 代码风格: <https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md>(英文)
-	* PHP-FIG 组织: <http://www.php-fig.org>(英文)
+	* PHP-FIG 框架可互用性小组: <http://www.php-fig.org>(英文)
 - Python: <https://www.python.org/dev/peps/pep-0008>(英文)
 - Ruby: <https://github.com/bbatsov/ruby-style-guide>(英文)
 - Scala: <https://docs.scala-lang.org/style>(英文)
