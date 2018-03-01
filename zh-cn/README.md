@@ -4,7 +4,9 @@
 
 按字母排序
 
-- Android: <https://source.android.com/source/code-style.html>(英文)
+- Android:
+	* 安卓官方: <https://source.android.com/source/code-style.html>(英文)
+	* 阿里巴巴: 《阿里巴巴Android开发手册》 <https://102.alibaba.com/downloadFile.do?file=1519806643286/Android1_0_0.pdf>
 - C#: <https://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx>(英文)
 - C++: <https://google.github.io/styleguide/cppguide.html>(英文)
 - Go: <https://github.com/golang/go/wiki/CodeReviewComments>(英文)
@@ -12,7 +14,7 @@
 - Haskell: <https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md>(英文)
 - Java:
 	* 谷歌: <https://google.github.io/styleguide/javaguide.html>(英文)
-	* 阿里巴巴: <https://github.com/alibaba/p3c>
+	* 阿里巴巴: 《阿里巴巴Java开发手册》 <https://github.com/alibaba/p3c>
 - JavaScript: <https://github.com/airbnb/javascript>(英文)
 - Objective-C: <https://github.com/NYTimes/objective-c-style-guide/blob/master/README_zh-Hans.md>
 - Perl: <https://perldoc.perl.org/perlstyle.html>(英文)

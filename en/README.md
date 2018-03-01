@@ -4,7 +4,9 @@
 
 Arranged in alphabetical order
 
-- Android: <https://source.android.com/source/code-style.html>
+- Android:
+	* Android Official: <https://source.android.com/source/code-style.html>
+	* Alibaba: <https://102.alibaba.com/downloadFile.do?file=1519806643286/Android1_0_0.pdf> (Chinese)
 - C#: <https://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx>
 - C++: <https://google.github.io/styleguide/cppguide.html>
 - Go: <https://github.com/golang/go/wiki/CodeReviewComments>
