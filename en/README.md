@@ -5,22 +5,22 @@
 Arranged in alphabetical order
 
 - Android:
-	* Android Official: <https://source.android.com/source/code-style.html>
-	* Alibaba: <https://102.alibaba.com/downloadFile.do?file=1519806643286/Android1_0_0.pdf> (Chinese)
+    * Android Official: <https://source.android.com/source/code-style.html>
+    * Alibaba: <https://102.alibaba.com/downloadFile.do?file=1519806643286/Android1_0_0.pdf> (Chinese)
 - C#: <https://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx>
 - C++: <https://google.github.io/styleguide/cppguide.html>
 - Go: <https://github.com/golang/go/wiki/CodeReviewComments>
 - Groovy: <http://groovy-lang.org/style-guide.html>
 - Haskell: <https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md>
 - Java:
-	* Google: <https://google.github.io/styleguide/javaguide.html>
-	* Alibaba: <https://alibaba.github.io/Alibaba-Java-Coding-Guidelines>
+    * Google: <https://google.github.io/styleguide/javaguide.html>
+    * Alibaba: <https://alibaba.github.io/Alibaba-Java-Coding-Guidelines>
 - JavaScript: <https://github.com/airbnb/javascript>
 - Objective-C: <https://github.com/NYTimes/objective-c-style-guide>
 - Perl: <https://perldoc.perl.org/perlstyle.html>
 - PHP:
-	* Style Guide: <https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md>
-	* PHP-FIG Group: <http://www.php-fig.org>
+    * Style Guide: <https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md>
+    * PHP-FIG Group: <http://www.php-fig.org>
 - Python: <https://www.python.org/dev/peps/pep-0008>
 - Ruby: <https://github.com/bbatsov/ruby-style-guide>
 - Scala: <https://docs.scala-lang.org/style>
