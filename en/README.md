@@ -35,6 +35,7 @@ Arranged in alphabetical order
 ---
 - Consistent Coding Styles: EditorConfig <http://editorconfig.org>
 - Variable Names: Codelf <https://unbug.github.io/codelf>
+- Semantic Versioning: <https://semver.org/lang/en>
 
 ### Contribution
 

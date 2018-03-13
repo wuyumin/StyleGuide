@@ -35,6 +35,7 @@
 ---
 - 统一代码风格: EditorConfig <http://editorconfig.org>(英文)
 - 变量命名: Codelf <https://unbug.github.io/codelf>
+- 语义化版本: <https://semver.org/lang/zh-CN>
 
 ### 贡献
 
